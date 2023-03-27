@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@actual-app/api": "^5.1.0"
+  }
+}
